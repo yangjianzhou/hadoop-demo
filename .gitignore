@@ -1,0 +1,9 @@
+.idea/
+venv
+.gradle/
+build
+*.iml
+*/*.iml
+*/build
+target/
+*/target/
